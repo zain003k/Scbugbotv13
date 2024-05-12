@@ -3264,7 +3264,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `${latensi.toFixed(4)} Second`,
-                            thumbnailUrl: 'https://i.ibb.co/dQkXV2Y/Picsart-23-10-10-18-28-51-982.jpg',
+                            thumbnailUrl: 'https://ibb.co/DgNNCFL',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
