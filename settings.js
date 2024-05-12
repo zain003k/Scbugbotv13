@@ -1,7 +1,7 @@
 //base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
 //YouTube: @Zainibhaii
-//Instagram: unicorn_xeon13
+//Instagram: Zain_Nawab97
 //Telegram: t.me/zainibhaii
 //GitHub: @Zainnawab69
 //WhatsApp: +923074060856
