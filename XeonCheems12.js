@@ -412,7 +412,7 @@ forwardingScore: 999,
 isForwarded: true,
 forwardedNewsletterMessageInfo: {
 newsletterName: "Click here to get $69",
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "1203632239565670@newsletter",
 },
 externalAdReply: {  
 showAdAttribution: true,
@@ -7615,7 +7615,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322239565670@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -7812,7 +7812,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322295675670@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -8010,7 +8010,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322239567570@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -8208,7 +8208,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322239575670@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -8406,7 +8406,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322239565670@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -8604,7 +8604,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322239675670@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -8802,7 +8802,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322239575670@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -9000,7 +9000,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322295675670@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -9198,7 +9198,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322235675670@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -9396,7 +9396,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322235675670@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -9594,7 +9594,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322239675670@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -9792,7 +9792,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322235675670@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -9990,7 +9990,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322295675670@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -10188,7 +10188,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322235675670@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -10386,7 +10386,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322235675670@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -10584,7 +10584,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322239575670@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -10782,7 +10782,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322235675670@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -10980,7 +10980,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322295675670@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -11178,7 +11178,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322235675670@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -11376,7 +11376,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322235675670@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -11574,7 +11574,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322395675670@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -11772,7 +11772,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322235675670@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -11970,7 +11970,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322239675670@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
