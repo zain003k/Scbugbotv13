@@ -1,10 +1,10 @@
 //base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @DGXeon
+//YouTube: @Zainibhaii
 //Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +916909137213
+//Telegram: t.me/zainibhaii
+//GitHub: @Zainnawab69
+//WhatsApp: +923074060856
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 const fs = require('fs')
@@ -19,11 +19,11 @@ global.location = "India, Mizoram, Aizawl" //ur location
 global.botname = '𝐃𝐀𝐑𝐊🖤𝐇𝐄𝐀𝐑𝐓✯𝘽𝙐𝙂𝘽𝙊𝙏' //ur bot name
 global.ownernumber = '923074060856' //ur owner number
 global.ownername = '✯𝐃𝐀𝐑𝐊🖤𝐇𝐄𝐀𝐑𝐓✯𝘽𝙐𝙂𝘽𝙊𝙏' //ur owner name
-global.websitex = "https://youtu.be/tLq8_qOOGFI"
-global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
+global.websitex = "https://youtu.be/@Zainibhaii"
+global.wagc = "https://whatsapp.com/channel/0029Va8ymxS0QeabB7oATM3r"
 global.themeemoji = '🪀'
 global.wm = "✯𝐃𝐀𝐑𝐊🖤𝐇𝐄𝐀𝐑𝐓✯𝘽𝙊𝙏t Inc."
-global.botscript = 'https://github.com/DGXeon/ChemsBot-MD12' //script link
+global.botscript = 'https://github.com/Zainnawab69/Scbugbot' //script link
 global.packname = "Sticker By"
 global.author = "✯𝐃𝐀𝐑𝐊🖤𝐇𝐄𝐀𝐑𝐓✯𝘽𝙊𝙏\n\n+923074060856"
 global.creator = "923074060856@s.whatsapp.net"
