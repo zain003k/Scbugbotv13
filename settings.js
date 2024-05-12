@@ -16,16 +16,16 @@ global.socialm = "GitHub: Zainnawab69" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = '👑𝐐𝐀𝐈𝐃𝐈 𝐍𝐎 804👑' //ur bot name
+global.botname = '👑𝘽𝙄𝙇𝘼𝙇 𝙆𝙄𝙉𝙂👑' //ur bot name
 global.ownernumber = '923074060856' //ur owner number
-global.ownername = '👑𝐐𝐀𝐈𝐃𝐈 𝐍𝐎 804👑' //ur owner name
+global.ownername = '👑𝘽𝙄𝙇𝘼𝙇 𝙆𝙄𝙉𝙂👑' //ur owner name
 global.websitex = "https://youtu.be/@Zainibhaii"
 global.wagc = "https://whatsapp.com/channel/0029Va8ymxS0QeabB7oATM3r"
 global.themeemoji = '🪀'
-global.wm = "👑𝐐𝐀𝐈𝐃𝐈 𝐍𝐎 804👑t Inc."
+global.wm = "👑𝘽𝙄𝙇𝘼𝙇 𝙆𝙄𝙉𝙂👑t Inc."
 global.botscript = 'https://github.com/Zainnawab69/Scbugbot' //script link
 global.packname = "Sticker By"
-global.author = "👑𝐐𝐀𝐈𝐃𝐈 𝐍𝐎 804👑\n\n+923074060856"
+global.author = "👑𝘽𝙄𝙇𝘼𝙇 𝙆𝙄𝙉𝙂👑\n\n+923074060856"
 global.creator = "923074060856@s.whatsapp.net"
 global.xprefix = '.'
 global.premium = ["923074060856"] // Premium User
@@ -47,7 +47,7 @@ global.mess = {
 	nsfw: 'Nsfw is disabled in this group, Please tell the admin to enable',
     done: 'Done✓',
     error: 'Error!',
-    success: '👑𝐐𝐀𝐈𝐃𝐈 𝐍𝐎 804👑!'
+    success: '👑𝘽𝙄𝙇𝘼𝙇 𝙆𝙄𝙉𝙂👑!'
 }
 //thumbnail
 global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
