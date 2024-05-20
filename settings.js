@@ -19,7 +19,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 global.botname = '👑𝘽𝙄𝙇𝘼𝙇 𝙆𝙄𝙉𝙂👑' //ur bot name
 global.ownernumber = '923074060856' //ur owner number
 global.ownername = '👑𝘽𝙄𝙇𝘼𝙇 𝙆𝙄𝙉𝙂👑' //ur owner name
-global.websitex = "https://youtu.be/N3kyujoG3vk"
+global.websitex = "https://youtu.be/TnUAvasM-1k?si=1Ybv1nC3k6Dr6zFq"
 global.wagc = "https://whatsapp.com/channel/0029Va8ymxS0QeabB7oATM3r"
 global.themeemoji = '🪀'
 global.wm = "👑𝘽𝙄𝙇𝘼𝙇 𝙆𝙄𝙉𝙂👑 Inc."
