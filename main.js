@@ -1,10 +1,10 @@
 //base by DGXeon (Xeon Bot Inc.)
-//YouTube: @DGXeon
-//Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
+//YouTube: @Zainibhaii
+//Instagram: Zain_nawab97
+//Telegram: t.me/zainibhaii
 //GitHub: @DGXeon
-//WhatsApp: +916909137213
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//WhatsApp: +923074060856
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Zainibhaii
 
 require('./settings')
 const makeWASocket = require("@whiskeysockets/baileys").default
@@ -61,8 +61,8 @@ if (global.db) setInterval(async () => {
    if (global.db.data) await global.db.write()
 }, 30 * 1000)
 
-require('./XeonCheems12.js')
-nocache('../XeonCheems12.js', module => console.log(color('[ CHANGE ]', 'green'), color(`'${module}'`, 'green'), 'Updated'))
+require('./XeonCheems13.js')
+nocache('../XeonCheems13.js', module => console.log(color('[ CHANGE ]', 'green'), color(`'${module}'`, 'green'), 'Updated'))
 require('./main.js')
 nocache('../main.js', module => console.log(color('[ CHANGE ]', 'green'), color(`'${module}'`, 'green'), 'Updated'))
 
@@ -136,18 +136,18 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
          phoneNumber = phoneNumber.replace(/[^0-9]/g, '')
 
          if (!Object.keys(PHONENUMBER_MCC).some(v => phoneNumber.startsWith(v))) {
-            console.log(chalk.bgBlack(chalk.redBright("Start with country code of your WhatsApp Number, Example : +923074060856")))
+            console.log(chalk.bgBlack(chalk.redBright("Start with country code of your WhatsApp Number, Example : +916909137213")))
             process.exit(0)
          }
       } else {
-         phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`Please type your WhatsApp number 😍\nFor example: +923074060856 : `)))
+         phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`Please type your WhatsApp number 😍\nFor example: +916909137213 : `)))
          phoneNumber = phoneNumber.replace(/[^0-9]/g, '')
 
          // Ask again when entering the wrong number
          if (!Object.keys(PHONENUMBER_MCC).some(v => phoneNumber.startsWith(v))) {
-            console.log(chalk.bgBlack(chalk.redBright("Start with country code of your WhatsApp Number, Example : +923074060856")))
+            console.log(chalk.bgBlack(chalk.redBright("Start with country code of your WhatsApp Number, Example : +916909137213")))
 
-            phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`Please type your WhatsApp number 😍\nFor example: +923074060856 : `)))
+            phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`Please type your WhatsApp number 😍\nFor example: +916909137213 : `)))
             phoneNumber = phoneNumber.replace(/[^0-9]/g, '')
             rl.close()
          }
@@ -244,7 +244,7 @@ XeonLft = await getBuffer(ppuser)
 	            const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
 	            const xmembers = metadata.participants.length
                 xeonbody = `┌─❖
-│「  𝐴𝑆𝑆𝐴𝐿𝐴𝑀 𝑂 𝐴𝐿𝐼𝐾𝑈𝑀👋 」
+│「 𝗛𝗶 👋 」
 └┬❖ 「  @${xeonName.split("@")[0]}  」
    │✑  𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 
    │✑  ${metadata.subject}
@@ -454,7 +454,7 @@ ppgroup = 'https://i.ibb.co/RBx5SQC/avatar-group-large-v2.png?q=60'
 			}
 		}
     })
-            
+    
     XeonBotInc.ev.on('messages.upsert', async chatUpdate => {
         //console.log(JSON.stringify(chatUpdate, undefined, 2))
         try {
@@ -466,7 +466,7 @@ ppgroup = 'https://i.ibb.co/RBx5SQC/avatar-group-large-v2.png?q=60'
             if (mek.key.id.startsWith('Xeon') && mek.key.id.length === 16) return
             if (mek.key.id.startsWith('BAE5')) return
             m = smsg(XeonBotInc, mek, store)
-            require("./XeonCheems12")(XeonBotInc, m, chatUpdate, store)
+            require("./XeonCheems13")(XeonBotInc, m, chatUpdate, store)
         } catch (err) {
             console.log(err)
         }
