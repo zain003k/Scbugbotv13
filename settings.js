@@ -16,13 +16,13 @@ global.socialm = "GitHub: Zainnawab69" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = '✯𝐃𝐀𝐑𝐊🖤𝐇𝐄𝐀𝐑𝐓✯𝘽𝙐𝙂𝘽𝙊𝙏' //ur bot name
+global.botname = '👑𝘽𝙄𝙇𝘼𝙇 𝙆𝙄𝙉𝙂👑' //ur bot name
 global.ownernumber = '923074060856' //ur owner number
-global.ownername = '✯𝐃𝐀𝐑𝐊🖤𝐇𝐄𝐀𝐑𝐓✯𝘽𝙐𝙂𝘽𝙊𝙏' //ur owner name
+global.ownername = '👑𝘽𝙄𝙇𝘼𝙇 𝙆𝙄𝙉𝙂👑' //ur owner name
 global.websitex = "https://youtu.be/N3kyujoG3vk"
 global.wagc = "https://whatsapp.com/channel/0029Va8ymxS0QeabB7oATM3r"
 global.themeemoji = '🪀'
-global.wm = "✯𝐃𝐀𝐑𝐊🖤𝐇𝐄𝐀𝐑𝐓✯𝘽𝙐𝙂𝘽𝙊𝙏 Inc."
+global.wm = "👑𝘽𝙄𝙇𝘼𝙇 𝙆𝙄𝙉𝙂👑 Inc."
 global.botscript = 'https://github.com/Zainnawab69/Scbugbot' //script link
 global.packname = "Sticker By"
 global.author = "Sticker By"
@@ -48,7 +48,7 @@ global.mess = {
 	nsfw: 'Nsfw is disabled in this group, Please tell the admin to enable',
     done: 'Done✓',
     error: 'Error!',
-    success: '✯𝐃𝐀𝐑𝐊🖤𝐇𝐄𝐀𝐑𝐓✯𝘽𝙐𝙂𝘽𝙊𝙏'
+    success: '👑𝘽𝙄𝙇𝘼𝙇 𝙆𝙄𝙉𝙂👑'
 }
 //thumbnail
 global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
